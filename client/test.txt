@@ -1,0 +1,6 @@
+GET ggg.txt 127.0.0.1 65432
+GET selmy.txt 127.0.0.1 65432
+POST data.txt 127.0.0.1 65432
+GET mar.html 127.0.0.1 65432
+GET mar.html 127.0.0.1 65432
+GET ggg.txt 127.0.0.1 65432
